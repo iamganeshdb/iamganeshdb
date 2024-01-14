@@ -1,7 +1,4 @@
-Ganesh DB - Software Development Engineer in Test (SDET)
-Hello there!  I'm Ganesh DB, a passionate Software Development Engineer in Test (SDET) on a perpetual journey of learning and exploration in the world of software testing. My mission is to contribute to the creation of robust and high-quality software that delights users.
-
-About Me
+Aout Me
 Name: Ganesh DB
 Role: Software Development Engineer in Test (SDET)
 What I Do
