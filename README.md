@@ -18,7 +18,6 @@ I believe in the power of continuous learning. In the ever-evolving field of sof
 I'm here not just to share my experiences but also to connect with fellow professionals. Networking is a powerful way to learn from each other and grow together. If you're involved in software testing or related fields, let's connect and exchange knowledge.
 
 📫 How to Reach Me
-GitHub: github.com/ganeshdb
-LinkedIn: linkedin.com/in/ganeshdb
-Twitter: @ganeshdb
+GitHub:[(https://github.com/iamganeshdb)](https://github.com/iamganeshdb)
+LinkedIn:[ linkedin.com/in/ganeshdb](https://www.linkedin.com/in/ganeshdb/)
 Feel free to drop me a message, share your insights, or just say hello! Let's build a thriving community of software testing enthusiasts. 🚀
