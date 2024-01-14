@@ -15,7 +15,7 @@ Performance Testing: Familiarity with performance testing tools to analyze and o
 I believe in the power of continuous learning. In the ever-evolving field of software testing, staying curious is key. I'm enthusiastic about exploring new testing methodologies, tools, and best practices. If you have any recommendations or insights, feel free to share!
 
 🤝 Let's Connect
-I'm here not just to share my experiences but also to connect with fellow professionals. Networking is a powerful way to learn from each other and grow together. If you're involved in software testing or related fields, let's connect and exchange knowledge.
+I'm here not just to share my experiences/Projects but also to connect with fellow professionals. Networking is a powerful way to learn from each other and grow together. If you're involved in software testing or related fields, let's connect and exchange knowledge.
 
 📫 How to Reach Me
 GitHub:[(https://github.com/iamganeshdb)](https://github.com/iamganeshdb)
