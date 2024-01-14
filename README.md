@@ -1,4 +1,4 @@
-Aout Me
+About Me
 Name: Ganesh DB
 Role: Software Development Engineer in Test (SDET)
 What I Do
