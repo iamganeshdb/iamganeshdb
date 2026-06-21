@@ -30,25 +30,16 @@ I'm an SDET based in Bengaluru with 3+ years of experience in manual and automat
 </div>
 
 <br/>
-
-<p className="text-slate-300 leading-8">
-  Manual Testing — ISTQB Certified <br />
-  Languages — Java, JavaScript, TypeScript <br />
-  Test Automation — Playwright, Selenium <br />
-  Database Testing — SQL <br />
-  API Testing — Postman, REST Assured <br />
-  CI/CD — GitHub Actions, Jenkins <br />
-  Version Control — Git <br />
-  Performance Testing — JMeter 
-</p>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamganeshdb&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamganeshdb&theme=dark&hide_border=true&background=0D1117" width="48%"/>
+<ul className="space-y-3 text-slate-300">
+  <li>⚡ <span className="text-teal-400 font-medium">Automation</span> → Playwright, Selenium</li>
+  <li>🔗 <span className="text-teal-400 font-medium">API Testing</span> → Postman, REST Assured</li>
+  <li>💻 <span className="text-teal-400 font-medium">Languages</span> → Java, JavaScript, TypeScript</li>
+  <li>🗄️ <span className="text-teal-400 font-medium">Database</span> → SQL</li>
+  <li>🚀 <span className="text-teal-400 font-medium">CI/CD</span> → GitHub Actions, Jenkins</li>
+  <li>📊 <span className="text-teal-400 font-medium">Performance</span> → JMeter</li>
+  <li>🤖 <span className="text-teal-400 font-medium">AI & MCP</span> → Claude, MCP, AI-Assisted Testing</li>
+</ul>
+  </div>
 </div>
 
 <br/>
