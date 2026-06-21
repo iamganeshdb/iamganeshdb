@@ -20,7 +20,13 @@ I'm an SDET based in Bengaluru with 3+ years of experience in manual and automat
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,java,cs,selenium,playwright,git,postman,restassured,SQL,Git,Jmeter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,selenium,postman,mysql,git,github,docker,jenkins&theme=dark"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Rest_Assured-6DB33F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-AI-blue?style=for-the-badge" />
+  
 </div>
 
 <br/>
