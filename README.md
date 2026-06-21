@@ -25,9 +25,14 @@ I'm an SDET based in Bengaluru with 3+ years of experience in manual and automat
 
 <br/>
 
-**Testing & Automation:** Playwright · Selenium · JMeter · Manual Testing (ISTQB Certified)
-**Languages:** JavaScript · Java · C# · SQL
-**Tools:** Git · GitHub Actions · API Testing · Postman
+Manual Testing — ISTQB Certified
+Test Automation — Playwright,Selenium
+API Testing — Postman ,REST Assured
+Languages — Java ,JavaScript / TypeScript
+CI/CD — GitHub Actions,Jenkins
+Version Control — Git
+Performance Testing — Jmeter
+Database Testing — SQL
 
 <br/>
 
