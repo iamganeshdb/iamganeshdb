@@ -12,7 +12,8 @@
 
 ## About Me
 
-I'm an SDET based in Bengaluru, working on test automation frameworks and manual QA, with a structured plan to move into senior automation engineering roles. ISTQB-certified, currently deep in Playwright framework design, DSA practice, and system design fundamentals.
+I'm an SDET based in Bengaluru with 3+ years of experience in manual and automation testing within the FinTech domain. I specialize in building reliable test automation frameworks using Playwright, Selenium, Postman, Rest Assured, SQL, and CI/CD tools. ISTQB-certified and passionate about quality engineering, I continuously explore AI-assisted testing, MCP integrations, system design, and DSA to build scalable, high-quality software and grow into senior automation engineering roles.
+
 
 <br/>
 
@@ -24,7 +25,7 @@ I'm an SDET based in Bengaluru, working on test automation frameworks and manual
 
 <br/>
 
-**Testing & Automation:** Playwright · Selenium · Cypress · JMeter · Manual Testing (ISTQB Certified)
+**Testing & Automation:** Playwright · Selenium · JMeter · Manual Testing (ISTQB Certified)
 **Languages:** JavaScript · Java · C# · SQL
 **Tools:** Git · GitHub Actions · API Testing · Postman
 
