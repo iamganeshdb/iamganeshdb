@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ganesh%20here&fontSize=50&fontColor=2dd4bf&animation=fadeIn&desc=SDET%20%7C%20Test%20Automation%20Engineer&descAlignY=65&descSize=20" width="100%"/>
 
 <a href="https://github.com/iamganeshdb">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2DD4BF&background=0D1117&center=true&vCenter=true&width=700&lines=AI+%7C+MCP+%7C+Claude+%7C+Playwright;Building+intelligent+test+automation;SDET+%7C+FinTech+%7C+Quality+Engineering;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2DD4BF&background=0D1117&center=true&vCenter=true&width=700&lines=AI+%7C+MCP+%7C+Claude+%7C+Playwright;Building+intelligent+test+automation;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,7 +20,7 @@ I'm an SDET based in Bengaluru with 3+ years of experience in manual and automat
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,java,cs,selenium,cypress,playwright,git,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,java,cs,selenium,playwright,git,postman,restassured,SQL,Git,Jmeter&theme=dark" />
 </div>
 
 <br/>
